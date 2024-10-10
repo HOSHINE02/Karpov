@@ -12,4 +12,5 @@
 
 _тест_
 
-![Uploading 2.jpg…]()
+
+![2](https://github.com/user-attachments/assets/fcef3e91-2708-49bb-82cf-4d7ff7e9e5a4)
