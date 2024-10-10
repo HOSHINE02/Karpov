@@ -12,3 +12,11 @@
 
 _тест_
 
+```
+#include <stdio.h>
+int main() {
+printf("Hello, World!");
+return 0;
+}
+```
+![2](https://github.com/user-attachments/assets/a70ee715-0fef-4ce2-9ce1-13f9e8a95275)
